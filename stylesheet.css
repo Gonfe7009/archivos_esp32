@@ -1,0 +1,45 @@
+body
+	 {
+	 width: 2480px;
+	  height:1080px;
+	 }
+	 
+    table {
+      border-collapse: collapse;
+      width: 2480px;
+	  height:1080px;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: center;
+      
+	  
+    }
+
+    th {
+      background-color: #f2f2f2;
+	   width: 10%;
+      height: 10%;
+    }
+	td {
+      background-color: #010101;
+	   width: 10%;
+      height: 10%;
+    }
+	
+	.image-button {
+      width: 100% ;
+      height: 100% ;
+      /* Otros estilos pueden ir aquí según sea necesario */
+    }
+	
+	.inter-image-button {
+      width: 100%;
+      height: 100%;
+      /* Otros estilos pueden ir aquí según sea necesario */
+	  
+    }
+    .adios, .hastaLaProxima {
+      display: none;
+    }
